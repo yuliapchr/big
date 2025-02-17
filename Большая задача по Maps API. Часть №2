@@ -11,7 +11,7 @@ url = 'https://static-maps.yandex.ru/v1'
 
 z_min = 1
 z_max = 21
-z = 21
+z = 15
 params = {
     'apikey': "4e60121e-3e68-41f0-bd84-eced30775d1c",
     'll': '18.069628,59.324612',
